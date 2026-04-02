@@ -4,7 +4,7 @@
 > inspection management — built for an HSE & Compliance division 
 > on a major offshore LNG construction project.
 
-![Dashboard](screenshots/02_dashboard.png)
+![Dashboard](screenshots/equipment-inspection-powerapps-SC1.png)
 
 ---
 
@@ -65,16 +65,16 @@ Power BI dashboard refreshes automatically
 ## 📸 Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/01_home_screen.png)
+![Home Screen](screenshots/equipment-inspection-powerapps-SC0.png)
 
 ### Dashboard
-![Dashboard](screenshots/02_dashboard.png)
+![Dashboard](screenshots/equipment-inspection-powerapps-SC1.png)
 
 ### Inspection Form
-![Inspection Form](screenshots/03_inspection_form.png)
+![Inspection Form](screenshots/equipment-inspection-powerapps-SC2.png)
 
 ### Success Screen
-![Success Screen](screenshots/04_success_screen.png)
+![Success Screen](screenshots/equipment-inspection-powerapps-SC3.png)
 
 ---
 
@@ -86,6 +86,6 @@ demonstration purposes only.
 ---
 
 ## 👤 Author
-**Syed Mohammed Fuaad**  
-Power BI & Automation Analyst | Qatar  
+**Syed Mohammed Fuaad**
+Power BI & Automation Analyst | Qatar
 [GitHub](https://github.com/f4fuaad) | [LinkedIn](https://www.linkedin.com/in/syed-fuaad)
