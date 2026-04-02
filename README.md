@@ -84,7 +84,10 @@ or individual data is used. Generated for portfolio
 demonstration purposes only.
 
 ---
+### Power BI Dashboard
+![Power BI Dashboard](screenshots/equipment-inspection-powerapps-SC4.png)
 
+---
 ## 👤 Author
 **Syed Mohammed Fuaad**
 Data Analyst,Power BI & Power Platform Developer | Qatar
