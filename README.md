@@ -4,7 +4,7 @@
 > inspection management — built for an HSE & Compliance division 
 > on a major offshore LNG construction project.
 
-![Dashboard](screenshots/equipment-inspection-powerapps-SC1.png)
+![Dashboard](screenshots/equipment-inspection-powerapps-SC1_NEW.png)
 
 ---
 
@@ -26,9 +26,13 @@ items fail inspection.
 - Auto-generated Equipment ID on every submission
 - Auto-filled Inspector Name via `User().FullName`
 - Overall Status auto-calculated — Pass / Review / Fail
-- Full CRUD — Create, Read, Update, Delete with confirmation popup
-- Inline edit panel — no screen navigation needed
-- Conditional colour coding throughout
+- Full CRUD operations:
+  - **Create** — new inspection form with 8-item checklist
+  - **Read** — live gallery showing all records with colour-coded status
+  - **Update** — inline edit panel slides in from right — no screen navigation needed. Edit description, zone, overall status and remarks
+  - **Delete** — trash icon on each row triggers confirmation popup before permanent deletion
+- Conditional colour coding throughout — green Pass, amber Review, red Fail
+- Delete confirmation popup — prevents accidental deletions
 
 ### SharePoint Online
 - `Equipment_Inspections` list — 16 columns
@@ -39,6 +43,15 @@ items fail inspection.
 - Triggered on every new submission
 - Sends alert email if Overall Status is Review or Fail
 - Updates `Alert_Sent` column automatically
+
+### Power BI
+- Connected to SharePoint Equipment Inspections list
+- KPI cards — Total, Passed, Review, Failed, Avg Items Failed
+- Bar chart — inspections by equipment type
+- Donut chart — Pass/Review/Fail status split
+- Line chart — daily inspection trend
+- Status breakdown by zone table
+- Recent inspections table with colour badges
 
 ---
 
@@ -76,6 +89,15 @@ Power BI dashboard refreshes automatically
 ### Success Screen
 ![Success Screen](screenshots/equipment-inspection-powerapps-SC3.png)
 
+### Power BI Dashboard
+![Power BI Dashboard](screenshots/equipment-inspection-powerapps-SC4.png)
+
+### Edit Panel
+![Edit Panel](screenshots/equipment-inspection-powerapps-SC1-EDIT_PAGE.png)
+
+### Delete Confirmation
+![Delete Confirmation](screenshots/equipment-inspection-powerapps-SC1-DELETE_PAGE.png)
+
 ---
 
 ## ⚠️ Data Note
@@ -84,11 +106,8 @@ or individual data is used. Generated for portfolio
 demonstration purposes only.
 
 ---
-### Power BI Dashboard
-![Power BI Dashboard](screenshots/equipment-inspection-powerapps-SC4.png)
 
----
 ## 👤 Author
 **Syed Mohammed Fuaad**
-Data Analyst,Power BI & Power Platform Developer | Qatar
+Power BI & Automation Analyst | Qatar
 [GitHub](https://github.com/f4fuaad) | [LinkedIn](https://www.linkedin.com/in/syed-fuaad)
