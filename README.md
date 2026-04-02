@@ -87,5 +87,5 @@ demonstration purposes only.
 
 ## 👤 Author
 **Syed Mohammed Fuaad**
-Power BI & Automation Analyst | Qatar
+Data Analyst,Power BI & Power Platform Developer | Qatar
 [GitHub](https://github.com/f4fuaad) | [LinkedIn](https://www.linkedin.com/in/syed-fuaad)
