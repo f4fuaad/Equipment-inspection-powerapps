@@ -83,6 +83,12 @@ Power BI dashboard refreshes automatically
 ### Dashboard
 ![Dashboard](screenshots/equipment-inspection-powerapps-SC1_NEW.png)
 
+### Edit Panel
+![Edit Panel](screenshots/equipment-inspection-powerapps-SC1-EDIT_PAGE.png)
+
+### Delete Confirmation
+![Delete Confirmation](screenshots/equipment-inspection-powerapps-SC1-DELETE_PAGE.png)
+
 ### Inspection Form
 ![Inspection Form](screenshots/equipment-inspection-powerapps-SC2.png)
 
@@ -92,11 +98,7 @@ Power BI dashboard refreshes automatically
 ### Power BI Dashboard
 ![Power BI Dashboard](screenshots/equipment-inspection-powerapps-SC4.png)
 
-### Edit Panel
-![Edit Panel](screenshots/equipment-inspection-powerapps-SC1-EDIT_PAGE.png)
 
-### Delete Confirmation
-![Delete Confirmation](screenshots/equipment-inspection-powerapps-SC1-DELETE_PAGE.png)
 
 ---
 
