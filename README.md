@@ -9,7 +9,7 @@
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat&logo=microsoftsharepoint&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=powerautomate&logoColor=white)
 
-![Power BI Dashboard](screenshots/equipment-inspection-powerapps-SC4_1.png)
+![Dashboard](screenshots/equipment-inspection-powerapps-SC1_NEW.png)
 
 ---
 
