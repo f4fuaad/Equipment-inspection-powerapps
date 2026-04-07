@@ -70,17 +70,17 @@ Power Apps | SharePoint Online | Power Automate | Power BI
 ---
 
 ## 📐 Data Flow
+```
 Inspector submits form (Power Apps)
-↓
+        ↓
 Record saved to SharePoint list
-↓
+        ↓
 Power Automate triggered
-↓
+        ↓
 Email confirmation sent to inspector (supervisors CC'd)
-↓
+        ↓
 Power BI dashboard refreshes automatically
-
----
+```
 
 ## 📸 Screenshots
 
