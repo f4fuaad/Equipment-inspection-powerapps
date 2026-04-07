@@ -90,7 +90,7 @@ Power BI dashboard refreshes automatically
 ---
 
 ### Home Screen
-![Home Screen](screenshots/equipment-inspection-powerapps-SC1_NEW.png)
+![Home Screen](screenshots/equipment-inspection-powerapps-SC1_NEW1.png)
 
 ### Dashboard
 ![Dashboard](screenshots/equipment-inspection-powerapps-SC1_NEW.png)
